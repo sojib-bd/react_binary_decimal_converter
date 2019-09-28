@@ -1,0 +1,25 @@
+.btns {
+  position: absolute;
+  left: 50%;
+  top: 180px;
+  transform: translateX(-50%);
+}
+
+.binary {
+  position: relative;
+  left: -80px;
+  padding: 10px;
+  color: blue;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+}
+.decimal {
+  position: relative;
+  left: 70px;
+  padding: 10px;
+  color: blue;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+}

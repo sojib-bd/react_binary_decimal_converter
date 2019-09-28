@@ -1,0 +1,13 @@
+.inputPortion {
+  position: absolute;
+  left: 50%;
+  top: 100px;
+  transform: translateX(-50%);
+}
+
+.text-input {
+  padding: 10px;
+  border-radius: 5px;
+  width: 300px;
+  border: 1px solid;
+}
